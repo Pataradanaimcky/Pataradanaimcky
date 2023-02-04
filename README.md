@@ -24,3 +24,8 @@ https://pataradanaimcky-resume.vercel.app
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pataradanaimcky&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+### Buy me a coffee
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3IGKVR)

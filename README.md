@@ -12,13 +12,17 @@
   <img src="https://komarev.com/ghpvc/?username=Pataradanaimcky&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there, I'm [Pataradanai Hansuksakul](https://Pataradanaimcky.github.io) 👋
+
+### Hi there, I'm [Pataradanai Hansuksakul](https://github.com/Pataradanaimcky) 👋
 
 I am a second year student at [Chulalongkorn University](https://www.chula.ac.th)) in [ISE(International School of Engineering)](http://www.ise.eng.chula.ac.th) with ICE (Information and Communication Engineer) major
+
+
 
 ### For my information Please visit:
 
 https://pataradanaimcky-resume.vercel.app
+
 
 
 ## Connect with me:
@@ -32,7 +36,7 @@ https://pataradanaimcky-resume.vercel.app
 
 ### :fire: My Stats :
 
-| <a href="https://github.com/Pataradanaimcky/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pataradanaimcky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pataradanaimcky's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pataradanaimcky&hide=python,jupyternotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/Pataradanaimcky/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pataradanaimcky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pataradanaimcky's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pataradanaimcky&hide=python,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 

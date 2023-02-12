@@ -12,18 +12,28 @@
   <img src="https://komarev.com/ghpvc/?username=Pataradanaimcky&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align ="center">
-  "HI There!"
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+### Hi there, I'm [Pataradanai Hansuksakul](https://Pataradanaimcky.github.io) 👋
+
+I am a second year student at [Chulalongkorn University](https://www.chula.ac.th)) in [ISE(International School of Engineering)](http://www.ise.eng.chula.ac.th) with ICE (Information and Communication Engineer) major
 
 ### For my information Please visit:
 
 https://pataradanaimcky-resume.vercel.app
 
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://Pataradanaimcky.github.io)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/pataradanai-hansuksakul-745837249/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/yourgrandpaprogenynamesmcky)
+</p>
+
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pataradanaimcky&theme=dark&background=000000)](https://git.io/streak-stats)
+| <a href="https://github.com/Pataradanaimcky/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pataradanaimcky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pataradanaimcky's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pataradanaimcky&hide=python,jupyternotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| ------------- | ------------- |
 
 
 ### Buy me a coffee

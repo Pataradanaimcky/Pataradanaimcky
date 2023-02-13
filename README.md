@@ -39,7 +39,7 @@ https://pataradanaimcky-resume.vercel.app
 | <a href="https://github.com/Pataradanaimcky/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pataradanaimcky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pataradanaimcky's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pataradanaimcky&hide=python,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
-<!--- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pataradanaimcky)](https://github.com/anuraghazra/github-readme-stats)--->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Pataradanaimcky)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Buy me a coffee

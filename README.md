@@ -36,7 +36,7 @@ https://pataradanaimcky-resume.vercel.app
 
 ## Certifications:
 
-<a href="https://www.skooldio.com/certificate/97955cc4-fa1c-4c4a-830b-bfed1cb5ad19"><img src="https://i.ibb.co/HHzxxcN/certificates-23c4f5f0-a83f-11ed-ab15-b5adbfc9e3eb-9795-certificate-certificate-es-6-Pataradanai-1-pd.png" alt="Certificate" height="100" border="0" /></a>
+<a href="https://www.skooldio.com/certificate/97955cc4-fa1c-4c4a-830b-bfed1cb5ad19"><img src="https://i.ibb.co/HHzxxcN/certificates-23c4f5f0-a83f-11ed-ab15-b5adbfc9e3eb-9795-certificate-certificate-es-6-Pataradanai-1-pd.png" alt="Certificate" height="200" border="0" /></a>
 
 ### :fire: My Stats :
 

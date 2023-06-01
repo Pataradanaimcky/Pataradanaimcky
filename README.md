@@ -2,16 +2,6 @@
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.freecodecamp.org/Pataradanaimcky">
-    <img src="https://img.shields.io/badge/freeCodeCamp-black?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp Badge"/>
-  </a>
-</div>
-
-<div id="counter" align = "center">
-  <img src="https://komarev.com/ghpvc/?username=Pataradanaimcky&style=flat-square&color=blue" alt=""/>
-</div>
-
 
 ### Hi there, I'm [Pataradanai Hansuksakul](https://github.com/Pataradanaimcky) 👋
 

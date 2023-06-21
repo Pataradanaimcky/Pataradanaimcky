@@ -5,7 +5,7 @@
 
 ### Hi there, I'm [Pataradanai Hansuksakul](https://github.com/Pataradanaimcky) 👋
 
-I am a second year student at [Chulalongkorn University](https://www.chula.ac.th) in [ISE(International School of Engineering)](http://www.ise.eng.chula.ac.th) with ICE (Information and Communication Engineer) major
+I am a third year student at [Chulalongkorn University](https://www.chula.ac.th) in [ISE(International School of Engineering)](http://www.ise.eng.chula.ac.th) with ICE (Information and Communication Engineer) major
 
 
 
